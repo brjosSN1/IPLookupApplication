@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rest_message_fn_parameters">
+    <sys_rest_message_fn_parameters action="INSERT_OR_UPDATE">
+        <name>stock</name>
+        <rest_message_function display_value="Default GET">25fff4b92f26201029883e0ef699b675</rest_message_function>
+        <sys_class_name>sys_rest_message_fn_parameters</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-02-28 02:46:53</sys_created_on>
+        <sys_id>741aef9e2fa2201029883e0ef699b66b</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>stock</sys_name>
+        <sys_package display_value="IPLookup" source="x_458834_iplookup">a6c312052f22201029883e0ef699b690</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="IPLookup">a6c312052f22201029883e0ef699b690</sys_scope>
+        <sys_update_name>sys_rest_message_fn_parameters_741aef9e2fa2201029883e0ef699b66b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-02-28 02:47:13</sys_updated_on>
+        <type>string</type>
+        <value>BP</value>
+    </sys_rest_message_fn_parameters>
+</record_update>

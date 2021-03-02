@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rest_message_fn">
+    <sys_rest_message_fn action="INSERT_OR_UPDATE">
+        <authentication_type>inherit_from_parent</authentication_type>
+        <basic_auth_password/>
+        <basic_auth_profile/>
+        <basic_auth_user/>
+        <content/>
+        <function_name>Get - City</function_name>
+        <http_method>get</http_method>
+        <lock>false</lock>
+        <oauth2_profile/>
+        <protocol_name/>
+        <qualified_name>IPInfo [ Get - City ]</qualified_name>
+        <rest_endpoint>https://ipinfo.io/${ipaddress}/${city}?/json</rest_endpoint>
+        <rest_message display_value="IPInfo">15849e812fa2201029883e0ef699b655</rest_message>
+        <sys_class_name>sys_rest_message_fn</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-02-26 00:41:47</sys_created_on>
+        <sys_id>e63afc392f26201029883e0ef699b63f</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Get - City</sys_name>
+        <sys_package display_value="IPLookup" source="x_458834_iplookup">a6c312052f22201029883e0ef699b690</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="IPLookup">a6c312052f22201029883e0ef699b690</sys_scope>
+        <sys_update_name>sys_rest_message_fn_e63afc392f26201029883e0ef699b63f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-02-26 00:45:17</sys_updated_on>
+        <use_basic_auth>false</use_basic_auth>
+        <use_mid_server/>
+        <use_mutual_auth>false</use_mutual_auth>
+    </sys_rest_message_fn>
+</record_update>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="StockInformation" max_length="40" name="x_458834_iplookup_stockinformation" sizeclass="4" type="collection">
+        <element label="CheckDate" max_length="40" name="checkdate" type="string"/>
+        <element label="ClosePrice" max_length="20" name="closeprice" type="currency"/>
+        <element label="Company" max_length="100" name="company" type="string"/>
+        <element label="OpenPrice" max_length="20" name="openprice" type="currency"/>
+        <element label="Stock" max_length="10" name="stock" type="string"/>
+    </element>
+</database>

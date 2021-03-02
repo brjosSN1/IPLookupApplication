@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="closeprice" label="ClosePrice" language="en" table="x_458834_iplookup_stockinformation">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>closeprice</element>
+            <help/>
+            <hint/>
+            <label>ClosePrice</label>
+            <language>en</language>
+            <name>x_458834_iplookup_stockinformation</name>
+            <plural>ClosePrices</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-02-28 02:45:23</sys_created_on>
+            <sys_id>b4c96b9e2fa2201029883e0ef699b686</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>ClosePrice</sys_name>
+            <sys_package display_value="IPLookup" source="x_458834_iplookup">a6c312052f22201029883e0ef699b690</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="IPLookup">a6c312052f22201029883e0ef699b690</sys_scope>
+            <sys_update_name>sys_documentation_x_458834_iplookup_stockinformation_closeprice_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-02-28 02:45:23</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
